@@ -1,5 +1,5 @@
 # Hi 👋🏼 I'm Ella Owens
-### I am currently a **cyber security fellow**, in the TKH Innovation Fellowship, learning the principles of cybersecurity, networking, and preforming security operation and optimization for security functions in AWS cloud.
+### I am currently a **cyber security fellow**, in the TKH Innovation Fellowship, learning the principles of cybersecurity networking and preforming security operation & optimization for security functions in AWS cloud.
 
 I am learning and implementing best practices to securely build and scale cloud-native applications and configure network security defenses within the cloud environment. I have also gained extensive knowledge on providing security solutions, architectural design, development, deployment and optimization for security functions in AWS cloud.
 
