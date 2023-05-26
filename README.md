@@ -11,4 +11,4 @@ Throughout my time in the TKH cybersecurity fellowship, I have participated in a
 • Eu também estou aprendendo português🌴
 
 ## 🔗 Profile
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ellahowens)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellahowens)
