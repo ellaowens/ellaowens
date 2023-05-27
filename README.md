@@ -1,4 +1,4 @@
-<h3 align="center"><img width="698" alt="Screenshot 2023-05-26 at 8 36 50 PM" src="https://github.com/ellaowens/ellaowens/assets/114102710/08e211c5-2924-49cf-92de-8d3d9f8bcf29">
+<h3 align="center"><img width="900" alt="Screenshot 2023-05-26 at 8 36 50 PM" src="https://github.com/ellaowens/ellaowens/assets/114102710/08e211c5-2924-49cf-92de-8d3d9f8bcf29">
 
 ### I am currently a **cyber security fellow**, in the TKH Innovation Fellowship, learning the principles of cybersecurity networking and preforming security operation & optimization for security functions in AWS cloud.
 
