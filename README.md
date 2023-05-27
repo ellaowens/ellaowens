@@ -1,7 +1,5 @@
-![forfcksake](https://github.com/ellaowens/ellaowens/assets/114102710/e95d6694-95cb-43a6-9344-e2708aa5656e)
+<h3 align="center"><img width="950" alt="Screenshot 2023-05-26 at 8 27 40 PM" src="https://github.com/ellaowens/ellaowens/assets/114102710/0c56debc-f041-4e1b-bf62-05da6111c506">
 
-
-  
 
 ### I am currently a **cyber security fellow**, in the TKH Innovation Fellowship, learning the principles of cybersecurity networking and preforming security operation & optimization for security functions in AWS cloud.
 
