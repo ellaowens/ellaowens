@@ -1,8 +1,5 @@
 <h3 align="center"><img width="900" alt="Screenshot 2023-05-26 at 8 36 50 PM" src="https://github.com/ellaowens/ellaowens/assets/114102710/08e211c5-2924-49cf-92de-8d3d9f8bcf29">
   
-  <img width="900" alt="Screenshot 2023-05-26 at 9 41 30 PM" src="https://github.com/ellaowens/ellaowens/assets/114102710/537757c4-f3ea-4c04-8ba4-66c7ec4a40ec">
-
-  
 ### I am currently a **cyber security fellow**, in the TKH Innovation Fellowship, learning the principles of cybersecurity networking and preforming security operation & optimization for security functions in AWS cloud.
 
 I am learning and implementing best practices to securely build and scale cloud-native applications and configure network security defenses within the cloud environment. I have also gained extensive knowledge on providing security solutions, architectural design, development, deployment and optimization for security functions in AWS cloud.
