@@ -1,4 +1,5 @@
-<h3 align="center"><img width="803" alt="Screenshot 2023-05-26 at 7 14 43 PM" src="https://github.com/ellaowens/ellaowens/assets/114102710/d3d35fea-9364-46d3-9f32-87100fa2c6a6">
+![forfcksake](https://github.com/ellaowens/ellaowens/assets/114102710/e95d6694-95cb-43a6-9344-e2708aa5656e)
+
 
   
 
