@@ -8,7 +8,7 @@ Throughout my time in the TKH cybersecurity fellowship, I participated in a coll
 
 • 📚 My certifications: 
 - ISC<sup>2</sup> Certified in Cybersecurity
-- AWS Certified Cloud Practioner
+- AWS Certified Cloud Practitioner
 
 
 
