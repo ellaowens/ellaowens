@@ -9,7 +9,7 @@ Throughout my time in the TKH cybersecurity fellowship, I participated in a coll
 
 • 📝 I am also learning Project Management and Scrum Master skills with TKH's Phase 4 certification preparation course. I am currently completing a Project Management Capstone while working along side Lead Product Manager and Senior Technical Project Manager for Wikipedia Apps.
 
-• 🌴 Eu também estou aprendendo português y espanhol 
+• 🌴 Eu também estou aprendendo português e espanhol 
 
 
 • 📚 My certifications: 
