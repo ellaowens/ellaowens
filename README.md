@@ -1,7 +1,7 @@
 <h3 align="center"><img width="900" alt="Screenshot 2023-05-26 at 8 36 50 PM" src="https://github.com/ellaowens/ellaowens/assets/114102710/08e211c5-2924-49cf-92de-8d3d9f8bcf29"></h3>
 
 
-**I am a recent graduate of the TKH Innovation Fellowship's cybersecurity program**, where I acquired a solid foundation in cybersecurity principles, network security, and optimizing security operations within the AWS cloud environment.
+**I am a recent graduate of the The Knowledge House Innovation Fellowship's cybersecurity program**, where I acquired a solid foundation in cybersecurity principles, network security, and optimizing security operations within the AWS cloud environment.
 
 During my time at TKH, I honed my skills in securely building and scaling cloud-native applications while configuring robust network security defenses within the AWS cloud. I gained extensive knowledge in providing end-to-end security solutions, including architectural design, development, deployment, and optimization within AWS.
 
