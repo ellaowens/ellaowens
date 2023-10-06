@@ -1,16 +1,17 @@
 <h3 align="center"><img width="900" alt="Screenshot 2023-05-26 at 8 36 50 PM" src="https://github.com/ellaowens/ellaowens/assets/114102710/08e211c5-2924-49cf-92de-8d3d9f8bcf29"></h3>
 
- ## 
- 
-### I am a **cyber security graduate**, of the TKH Innovation Fellowship, where I had the opportunity to learn the principles of cybersecurity networking and performing security operation & optimization for security functions in AWS cloud. 
 
-I have learned and implemented best practices to securely build and scale cloud-native applications and configure network security defenses within the cloud environment. I have also gained extensive knowledge on providing security solutions, architectural design, development, deployment and optimization for security functions in AWS cloud.
+**I am a recent graduate of the TKH Innovation Fellowship's cybersecurity program**, where I acquired a solid foundation in cybersecurity principles, network security, and optimizing security operations within the AWS cloud environment.
 
-Throughout my time in the TKH cybersecurity fellowship, I participated in a collaborative team to demonstrate an understanding and application of AWS services for building a secure lab in the AWS Cloud environment. The project involved leveraging AWS services to create a secure infrastructure that can protect against various cyber threats and attacks. For the final months of the cybersecurity fellowship I joined other students to create a capstone project: [Cybersecurity Training Range](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/README.md).
+During my time at TKH, I honed my skills in securely building and scaling cloud-native applications while configuring robust network security defenses within the AWS cloud. I gained extensive knowledge in providing end-to-end security solutions, including architectural design, development, deployment, and optimization within AWS.
 
+One of my standout experiences during the TKH cybersecurity fellowship was collaborating with a dynamic team to showcase our proficiency in utilizing AWS services to create a secure lab within the AWS Cloud. This project involved leveraging AWS tools to establish a resilient infrastructure capable of thwarting a variety of cyber threats and attacks.
+As a culmination of my fellowship journey, I contributed to the creation of a capstone project known as the **"[Cybersecurity Training Range](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/README.md),"** demonstrating my ability to apply my cybersecurity skills in a practical and innovative way.
 
-• 📝 I have also taken TKH's Phase 4 certification preparation course where I learned the foundations of **Project Management** and Scrum Master skills. I am currently studying for the CAPM exam.
+Additionally, I have expanded my skill set by participating in TKH's Phase 4 certification preparation course, where I obtained foundational knowledge in **Project Management and Scrum Master skills**. Currently, I am actively preparing for the CAPM (Certified Associate in Project Management) exam to further enhance my expertise.
 
+##
+My journey at TKH has equipped me with the skills and knowledge necessary to excel in the field of cybersecurity and project management, and I am eager to contribute my expertise to challenging and impactful projects in the future.
 
 
 
