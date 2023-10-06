@@ -15,11 +15,11 @@ My journey at TKH has equipped me with the skills and knowledge necessary to exc
 
 
 
-• 📚 My certifications: 
-- ISC<sup>2</sup> Certified in Cybersecurity
-- AWS Certified Cloud Practitioner
-- Scrum Foundation Professional Certification (SFPC)
-- Google Project Management
+- 📚 My certifications: 
+  - ISC<sup>2</sup> Certified in Cybersecurity
+  - AWS Certified Cloud Practitioner
+  - Scrum Foundation Professional Certification (SFPC)
+  - Google Project Management
 
 
 ## <h3 align="left">Languages and Tools:</h3>
