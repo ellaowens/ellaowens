@@ -14,20 +14,19 @@ Additionally, I have expanded my skill set by participating in TKH's Phase 4 cer
 My journey at TKH has equipped me with the skills and knowledge necessary to excel in the field of cybersecurity and project management, and I am eager to contribute my expertise to challenging and impactful projects in the future.
 
 
-
-- 📚 **My certifications:** 
-  - ISC<sup>2</sup> Certified in Cybersecurity
-  - AWS Certified Cloud Practitioner
-  - Scrum Foundation Professional Certification (SFPC)
-  - Google Project Management
-
-- 👩🏽‍💻 **My Projects**
+- 👩🏽‍💻 **My Projects:**
   - [Project Management Capstone](https://github.com/ellaowens/Project-Manangement-Capstone)
   - [Cybersecurity Lab](https://github.com/ellaowens/Cybersecurity-Lab)
   - [AWS Cloud Infrastructure Deployment & Networking](https://github.com/ellaowens/AWS-Cloud-Infrastructure-Deployment-and-Networking)
   - [AWS Security Lab](https://github.com/ellaowens/AWS-Security-Lab)
   - [Cybersecurity and Cloud Capstone](https://github.com/ellaowens/Cybersecurity-and-Cloud-Security-Capstone)
 
+
+- 📚 **My certifications:** 
+  - ISC<sup>2</sup> Certified in Cybersecurity
+  - AWS Certified Cloud Practitioner
+  - Scrum Foundation Professional Certification (SFPC)
+  - Google Project Management
 
 
 ## <h3 align="left">Languages and Tools:</h3>
