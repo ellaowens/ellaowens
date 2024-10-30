@@ -3,10 +3,10 @@
 
 **I am a recent graduate of the The Knowledge House Innovation Fellowship's cybersecurity program**, where I acquired a solid foundation in cybersecurity principles, network security, and optimizing security operations within the AWS cloud environment.
 
-During my time at TKH, I honed my skills in securely building and scaling cloud-native applications while configuring robust network security defenses within the AWS cloud. I gained extensive knowledge in providing end-to-end security solutions, including architectural design, development, deployment, and optimization within AWS.
+During my time at TKH, I sharpened my skills in securely building and scaling cloud-native applications while configuring robust network security defenses within the AWS cloud. I gained extensive knowledge in providing end-to-end security solutions, including architectural design, development, deployment, and optimization within AWS.
 
-One of my standout experiences during the TKH cybersecurity fellowship was collaborating with a dynamic team to showcase our proficiency in utilizing AWS services to create a secure lab within the AWS Cloud. This project involved leveraging AWS tools to establish a resilient infrastructure capable of thwarting a variety of cyber threats and attacks.
-As a culmination of my fellowship journey, I contributed to the creation of a capstone project known as the **"[Cybersecurity Training Range](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/README.md),"** demonstrating my ability to apply my cybersecurity skills in a practical and innovative way.
+One of my standout experiences during the TKH cybersecurity fellowship was collaborating with a team to showcase our proficiency in utilizing AWS services to create a secure lab within the AWS Cloud. This project involved leveraging AWS tools to establish a resilient infrastructure capable of thwarting a variety of cyber threats and attacks.
+As a highlight of my fellowship journey, I contributed to the creation of a capstone project known as the **"[Cybersecurity Training Range](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/README.md),"** demonstrating my ability to apply my cybersecurity skills in a practical and innovative way.
 
 Additionally, I have expanded my skill set by participating in TKH's Phase 4 certification preparation course, where I obtained foundational knowledge in **Project Management and Scrum Master skills**. Currently, I am actively preparing for the CAPM (Certified Associate in Project Management) exam to further enhance my expertise.
 
