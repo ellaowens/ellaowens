@@ -34,4 +34,3 @@ My journey at TKH has equipped me with the skills and knowledge necessary to exc
 
 ## <h3 align="left">🔗 Profile:</h3>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellahowens)
-![image](https://github.com/user-attachments/assets/12d0e3c7-cfd0-486b-a59f-8162615fe722)
