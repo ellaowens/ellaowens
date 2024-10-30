@@ -10,9 +10,9 @@ As a highlight of my fellowship journey, I contributed to the creation of a caps
 
 Additionally, I have expanded my skill set by participating in TKH's Phase 4 certification preparation course, where I obtained foundational knowledge in **Project Management and Scrum Master skills**. Currently, I am actively preparing for the CAPM (Certified Associate in Project Management) exam to further enhance my expertise.
 
-##
-My journey at TKH has equipped me with the skills and knowledge necessary to excel in the field of cybersecurity and project management, and I am eager to contribute my expertise to challenging and impactful projects in the future.
 
+My journey at TKH has equipped me with the skills and knowledge necessary to excel in the field of cybersecurity and project management, and I am eager to contribute my expertise to challenging and impactful projects in the future.
+ ##
 
 - 👩🏽‍💻 **My Projects:**
   - [Project Management Capstone](https://github.com/ellaowens/Project-Manangement-Capstone)
