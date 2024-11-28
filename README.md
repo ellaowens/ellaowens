@@ -15,11 +15,12 @@ My journey at TKH has equipped me with the skills and knowledge necessary to exc
  ##
 
 - 👩🏽‍💻 **My Projects:**
-  - [Project Management Capstone](https://github.com/ellaowens/Project-Manangement-Capstone)
+  - [Cybersecurity and Cloud Capstone](https://github.com/ellaowens/Cybersecurity-and-Cloud-Security-Capstone)
   - [Cybersecurity Lab](https://github.com/ellaowens/Cybersecurity-Lab)
   - [AWS Cloud Infrastructure Deployment & Networking](https://github.com/ellaowens/AWS-Cloud-Infrastructure-Deployment-and-Networking)
+  - [Wireshark Traffic Analysis](https://github.com/ellaowens/Wireshark-Traffic-Analysis-Lab)  
   - [AWS Security Lab](https://github.com/ellaowens/AWS-Security-Lab)
-  - [Cybersecurity and Cloud Capstone](https://github.com/ellaowens/Cybersecurity-and-Cloud-Security-Capstone)
+  - [Project Management Capstone](https://github.com/ellaowens/Project-Manangement-Capstone)
 
 
 - 📚 **My certifications:** 
