@@ -3,7 +3,9 @@
 
 I am a graduate of The Knowledge House's Innovation Fellowship in cybersecurity, where I built a strong foundation in network security and AWS cloud security. I gained hands-on experience in developing and scaling cloud-native applications, optimizing security operations, and designing secure AWS infrastructures. A standout project was my team's work on the **"[Cybersecurity Training Range](https://github.com/cybertrainingrange/cybertraininingrange.io/blob/main/README.md),"** demonstrating my ability to design and deploy secure AWS environments.
 
-Additionally, I have a background in project management, and my diverse skill set in both cybersecurity and project management allows me to contribute to impactful and challenging projects.
+In addition to my technical expertise, I bring a strong background in project management. During my internship with the ACLU as a Technical Product Manager, I evaluated legal case management systems (CMS), created a feature's scorecard, and provided insights that directly informed key decision-making processes. I also collaborated with Wikimedia on a project management capstone, further strengthening my ability to lead projects that drive meaningful outcomes.
+
+My diverse skill set in both cybersecurity and project management enables me to approach complex challenges with a holistic perspective. I am currently preparing for the Certified Associate in Project Management (**CAPM**) exam, scheduled for April 2025, to further solidify my project management expertise.
 
  ##
 
