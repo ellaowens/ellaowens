@@ -5,7 +5,7 @@ I am a graduate of The Knowledge House's Innovation Fellowship in cybersecurity,
 
 In addition to my technical expertise, I bring a strong background in project management. During my internship with the ACLU as a Technical Product Manager, I evaluated legal case management systems (CMS), created a feature's scorecard, and provided insights that directly informed key decision-making processes. I also collaborated with Wikimedia on a project management capstone, further strengthening my ability to lead projects that drive meaningful outcomes.
 
-My diverse skill set in both cybersecurity and project management enables me to approach complex challenges with a holistic perspective. I am currently preparing for the Certified Associate in Project Management (**CAPM**) exam, scheduled for April 2025, to further solidify my project management expertise.
+My diverse skill set in both cybersecurity and project management enables me to approach complex challenges from a well-rounded standpoint. I am currently preparing for the Certified Associate in Project Management (**CAPM**) exam, scheduled for April 2025, to further solidify my project management expertise.
 
  ##
 
