@@ -17,7 +17,7 @@ My diverse skill set in both cybersecurity and project management enables me to 
   - [Wireshark Traffic Analysis](https://github.com/ellaowens/Wireshark-Traffic-Analysis-Lab)  
   - [AWS Security Lab](https://github.com/ellaowens/AWS-Security-Lab)
   - [SSH Security & Firewall Configuration](https://github.com/ellaowens/SSH-Security-and-Firewall-Configuration-Lab)
-  - [Project Management Capstone](https://github.com/ellaowens/Project-Manangement-Capstone)
+  - [Project Management Capstone with Wikimedia](https://github.com/ellaowens/Project-Manangement-Capstone)
 
 
 - 📚 **My certifications:** 
